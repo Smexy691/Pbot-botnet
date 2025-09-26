@@ -10,3 +10,6 @@ python3 bot.py
 id say this will work on any vps might have some cpu issues with closing and opening the cnc (small bug) 
 
 and remember people this all for educational and research purposes only. Do not use on unauthorized networks or systems.
+
+
+also https://discord.gg/DaMAeZXEtr
